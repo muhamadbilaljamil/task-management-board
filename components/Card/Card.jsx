@@ -73,7 +73,6 @@ const Card = (props) => {
                 </div>
               )}
             </div>
-
             {provided.placeholder}
           </div>
         </>
